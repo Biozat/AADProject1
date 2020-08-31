@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:id="@+id/cancel"
+        android:src="@drawable/ic_cancel"/>
+
+   <LinearLayout
+       android:layout_marginTop="20dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:gravity="center"
+       android:layout_below="@+id/cancel">
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/sure"
+           android:text="@string/sure"
+           android:layout_marginTop="20dp"
+           android:textSize="20sp"
+           android:fontFamily="@font/raleway_semibold"
+           android:textColor="@color/itemBackground"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/yes"
+           android:text="@string/yes"
+           android:layout_marginTop="20dp"
+           android:paddingTop="10dp"
+           android:paddingBottom="10dp"
+           android:paddingStart="60dp"
+           android:paddingEnd="60dp"
+           android:background="@drawable/yes_shape"
+           android:textSize="20sp"
+           android:textColor="@color/colorInside"
+           android:fontFamily="@font/raleway"
+           android:layout_marginBottom="80dp"/>
+   </LinearLayout>
+
+</RelativeLayout>
