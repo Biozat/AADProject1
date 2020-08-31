@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_submission">SubmissionActivity</string>
+    <string name="sure">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="no_network_connection">No Network Connection</string>
+</resources>

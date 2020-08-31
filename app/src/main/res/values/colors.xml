@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorRoyal">#0DA8BD</color>
+    <color name="buttonColor">#4D4949</color>
+    <color name="itemBackground">#151616</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="blueColor">#3F51B5</color>
+    <color name="colorDark">#101010</color>
+    <color name="colorPurple">#9C27B0</color>
+    <color name="colorBorder">#FAE743</color>
+    <color name="colorInside">#FFC107</color>
+    <color name="colorBorderRed">#F71730</color>
+    <color name="colorInsideRed">#BE0B30</color>
+    <color name="colorRangeInside">#3987C5</color>
+    <color name="colorRangeBorder">#66A3D3</color>
+    <color name="colorGray">#6B6969</color>
+</resources>
